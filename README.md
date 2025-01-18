@@ -1,3 +1,2 @@
 # data-structures
-Config files for my GitHub profile.
-REALIZZAZIONE STRUTTURE DATI IN C++
+Personal realization of data structures in C++, for the exam: "Algorithms and data structures"
